@@ -9,7 +9,7 @@
 
 **어려웠던 고민들, 배달의 만족이 해결해 드립니다!**
 ## 프로젝트 데모!
-![Uploading team11_demo.gif…]()
+https://kdt-gitlab.elice.io/ai_track/class_03/data_project/003-part3-deliveryservice/team11/project-template/uploads/87e26b4fb1bcbb99e9d45958147a0e23/team11_demo.gif
 
 ## 프로젝트 소개
 
