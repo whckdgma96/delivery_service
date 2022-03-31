@@ -9,7 +9,7 @@
 
 **어려웠던 고민들, 배달의 만족이 해결해 드립니다!**
 ## 프로젝트 데모!
-[Uploading team11_demo.gif…]
+![Uploading team11_demo.gif…]()
 
 ## 프로젝트 소개
 
